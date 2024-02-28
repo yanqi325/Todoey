@@ -9,5 +9,6 @@ A simple checklist app that is designed to list all your to-dos and check them o
 3. Lift state up to be able to access it from children widgets.
 
 ## Screenshots
+![Finished App](assets/todoey.gif)
 
 
