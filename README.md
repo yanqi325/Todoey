@@ -1,16 +1,13 @@
-# todoey
+# Todoey
 
-A new Flutter project.
+A simple checklist app that is designed to list all your to-dos and check them off as you complete them, allowing the user to stay organized and boost productivity! 
 
-## Getting Started
+## What has been implemented in this app?
 
-This project is a starting point for a Flutter application.
+1.State Management
+2. Use the Flutter BottomSheet Widget.
+3. Lift state up to be able to access it from children widgets.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
